@@ -32,9 +32,14 @@ Funciona sin root y está optimizado para Android modernos. 🚀
 1️⃣ Clonar el repositorio y preparar scripts
 `bash
 pkg install git -y
+
 git clone https://github.com/HUEVOMAN77/gamehub.git
+
 cd gamehub
-chmod +x gamehub.sh refreshgames.sh
+
+chmod +x gamehub.sh
+
+refreshgames.sh
 `
 
 2️⃣ Configurar Shizuku
